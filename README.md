@@ -24,6 +24,12 @@ Arabic OCR is a project designed to extract text from images written in Arabic s
 1. Clone the repository: `git clone https://github.com/Alaaeldinn/Arabic-OCR.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
+
+## Run 
+
+```bash
+git clone https://github.com/Alaaeldinn/ZSED.git
+```
    
 ### Usage
 
@@ -31,6 +37,3 @@ Arabic OCR is a project designed to extract text from images written in Arabic s
 2. Input the image containing Arabic text.
 3. Obtain the extracted text as the output.
 
-## Contributing
-
-Contributions are welcome! Feel free to open source
