@@ -11,14 +11,6 @@ Arabic OCR is a project designed to extract text from images written in Arabic s
 - **Image Preprocessing:** Includes preprocessing techniques to enhance OCR accuracy, such as resizing, normalization, and noise reduction.
 - **User-Friendly Interface:** Simple and intuitive interface for ease of use.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Tesseract OCR Engine
-- Arabic language pack for Tesseract (if not included)
-
 ### Installation
 
 1. Clone the repository
